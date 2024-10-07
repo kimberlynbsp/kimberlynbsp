@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra saber mais, me siga nas redes abaixo:
+### Para saber mais, me siga nas redes abaixo:
  
 <div> 
   <a href="https://https://www.instagram.com/kimberlyndepaula/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
