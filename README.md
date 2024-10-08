@@ -1,17 +1,31 @@
 ## Bem-vindo(a) ao meu perfil  💜
 
+### Me chamo **Kimberlyn de Paula**👨‍💻
+
+### Atualmente cursando tecnologo em analise e desenvolvimento de sistemas, e realizando cursos a parte pela Dio. 
+
+### 👩‍💻 Trabalho como analista de dados. 
+
+### 🧠 Estou aprendendo Python.
+
+### ⚡️ Hobbies - Gosto de estudar Programação, ler e jogar.
+
+
+## 🛠 Habilidades
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
  <div>
    <a href="https://github.com/kimberlynbsp">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimberlynbsp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberlynbsp&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+
+
 <br>
  
 ### Para saber mais, me siga nas redes abaixo:
