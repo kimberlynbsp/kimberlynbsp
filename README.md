@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Trabalho como analista de dados. 
 
-### 🧠 Estou aprendendo Python.
+### 🧠 Estou aprendendo Java.
 
 ### ⚡️ Hobbies - Gosto de estudar, ler e jogar.
 
