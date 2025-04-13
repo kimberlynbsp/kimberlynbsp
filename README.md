@@ -11,7 +11,7 @@
 
 ### 🧠 Estou aprendendo Python.
 
-### ⚡️ Hobbies - Gosto de estudar Programação, ler e jogar.
+### ⚡️ Hobbies - Gosto de estudar, ler e jogar.
 
 
 ## 🛠 Habilidades
