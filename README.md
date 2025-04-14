@@ -11,7 +11,7 @@
 
 ### 🧠 Estou aprendendo Java.
 
-### ⚡️ Hobbies - Gosto de estudar, ler e jogar.
+### ⚡️ Hobbies - Gosto de estudar, ler e jogar. 
 
 
 ## 🛠 Habilidades
